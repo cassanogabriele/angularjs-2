@@ -1,0 +1,54 @@
+#card-style{ height:50px; }
+
+#jumbotron-style{
+	height:140px;
+	background-color:#2E9AFE!important;
+}
+
+#jumbotron-style2{
+	height:140px;
+	background-color:#2E9AFE!important;
+	margin-bottom:-10px;
+}
+
+#conditions{
+	margin-top:25px;
+	margin-bottom:65px;
+}
+
+#mi{
+	margin-top:25px;
+	margin-bottom:295px;
+}
+
+#alert-style{
+	margin-top:-50px;
+	background-color:#00BFFF!important;
+	color:white !important;
+	font-weight:bold;
+}
+
+#lien-logo{
+	font-style: italic;	
+	text-align:center;
+	text-decoration:none;
+	margin-top:5px;
+}
+
+#logo{
+	font-family:Andale Mono, monospace;
+	font-size:22px;
+	text-align:center;
+}
+
+#footer a{
+	color:#FFFFFF;	
+	text-decoration:none; 
+}
+
+
+#footer-links{
+	float:right;
+}
+
+#resume{ width:550px !important; }
